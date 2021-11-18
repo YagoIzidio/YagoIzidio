@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### 👋 Olá eu sou Yago-Izidio
+  ### Olá eu sou Yago-Izidio
   
 </div>
 

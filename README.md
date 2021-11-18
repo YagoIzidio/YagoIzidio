@@ -33,7 +33,9 @@
 
 </div>
   
-  ![Snake animation](https://github.com/YagoIzidio/blob/output/github-contribution-grid-snake.svg)
+  ##
+  
+  ![Snake animation](https://github.com/YagoIzidio/YagoIzidio/blob/output/github-contribution-grid-snake.svg)
   
   
  
